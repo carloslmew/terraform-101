@@ -1,11 +1,11 @@
 # terraform-101
 This repository has the code to create a VPC and a VM in GCP.
 
-#Prerequisites
+## Prerequisites
 * Setup a GCP account
 * Install Terraform
 
-#Installing
+## Installing
 Just run the following commands
 
 * Clone the project
@@ -42,5 +42,5 @@ terraform apply
 terraform destroy
 ```
 
-# Acknowledgments
+## Acknowledgments
 This solution was based on this guide: [Get Started - Google Cloud](https://learn.hashicorp.com/collections/terraform/gcp-get-started) guide, containing Terraform configuration files to create resources on GCP.
