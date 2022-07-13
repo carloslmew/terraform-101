@@ -44,3 +44,5 @@ terraform destroy
 
 ## Acknowledgments
 This solution was based on this guide: [Get Started - Google Cloud](https://learn.hashicorp.com/collections/terraform/gcp-get-started) guide, containing Terraform configuration files to create resources on GCP.
+
+Follow the step-by-step here: [GCP: Terraform Setup on the Cloud](https://protective-opossum-8c5.notion.site/GCP-Terraform-Setup-on-the-Cloud-d67714ee9c8b493586764ca6de002ee4)
